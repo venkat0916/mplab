@@ -291,7 +291,7 @@ typedef struct
 #define INFO_SENTRY_CC_80                    0x20000000
 #define INFO_SENTRY_CC_TRICKLE               0x40000000
 #define INFO_SENTRY_CC_EQUALIZE              0x80000000
-#define INFO_SENTRY_CC_100					 0x00000001
+#define INFO_SENTRY_CC_100					 0x00000002
 
 //NOTE: Update as additional info messages are added
 #define INFO_2_EOL                           0x00000002
